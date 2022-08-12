@@ -1,1 +1,1 @@
-# Day-2-diff-bw-wind-doc-objects
+# Differnces between document and window objects
